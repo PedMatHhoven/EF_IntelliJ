@@ -1,4 +1,7 @@
-import java.util.*;
+package _04_Arrays;
+
+import java.util.Random;
+import java.util.Scanner;
 
 public class SchereSteinPapier {
     public static void main(String[] args) {

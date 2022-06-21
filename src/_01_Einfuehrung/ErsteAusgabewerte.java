@@ -1,4 +1,4 @@
-package _01_Einführung;
+package _01_Einfuehrung;
 
 public class ErsteAusgabewerte {
   public static void main (String[] args) {

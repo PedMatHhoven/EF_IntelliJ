@@ -1,3 +1,5 @@
+package _02_Datentypen;
+
 public class DatentypenUndVariablen {
   public static void main (String[] args) {
     //Variablendeklarationen

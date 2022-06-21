@@ -1,3 +1,5 @@
+package _04_Arrays;
+
 import java.util.Random;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package _04_Arrays;
+
 import java.util.Scanner;
 public class SummeMittelwert {
   public static void main(String[] args) {

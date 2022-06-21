@@ -1,3 +1,5 @@
+package _02_Datentypen;
+
 import java.util.Scanner;
 
 public class TaschenrechnerKraftstoff{
